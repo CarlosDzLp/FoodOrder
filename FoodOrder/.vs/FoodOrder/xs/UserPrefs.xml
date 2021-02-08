@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{61B127B4-29DD-48B2-8424-EE08E1951814}|Default">
+  <MonoDevelop.Ide.ItemProperties.FoodOrder.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.58DCA815-8501-4F31-A4AC-26D28CED5407" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FoodOrder.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.A4N4C19B25003791" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

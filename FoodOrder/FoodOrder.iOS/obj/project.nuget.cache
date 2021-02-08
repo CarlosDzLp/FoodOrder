@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmXquwtpGofT4NWywlvcGqjiNre3BNaUWKm561UmCi3vcXf4K0UyLlg2rHWEMumoCy4bq+Sp6IN8Nlb2EaxTXQ==",
+  "success": true,
+  "projectFilePath": "/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder.iOS/FoodOrder.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlosdiazlopez/.nuget/packages/fody/6.3.0/fody.6.3.0.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/propertychanged.fody/3.3.1/propertychanged.fody.3.3.1.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/webp.touch/1.0.8/webp.touch.1.0.8.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.communitytoolkit/1.0.2/xamarin.communitytoolkit.1.0.2.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.ffimageloading/2.4.11.982/xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.ffimageloading.forms/2.4.11.982/xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms.pancakeview/2.3.0.759/xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

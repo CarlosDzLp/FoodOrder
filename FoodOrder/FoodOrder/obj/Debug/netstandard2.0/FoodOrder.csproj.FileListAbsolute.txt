@@ -1,0 +1,15 @@
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/bin/Debug/netstandard2.0/FoodOrder.deps.json
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/bin/Debug/netstandard2.0/FoodOrder.dll
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/bin/Debug/netstandard2.0/ref/FoodOrder.dll
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/bin/Debug/netstandard2.0/FoodOrder.pdb
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.csprojAssemblyReference.cache
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.AssemblyInfoInputs.cache
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.AssemblyInfo.cs
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.csproj.CoreCompileInputs.cache
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.csproj.Fody.CopyLocal.cache
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.dll
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/ref/FoodOrder.dll
+/Users/carlosdiazlopez/FoodOrder/FoodOrder/FoodOrder/obj/Debug/netstandard2.0/FoodOrder.pdb
